@@ -1,0 +1,3 @@
+## Mastering Ethereum - Chapter 1
+
+Given that the Ethereum Virtual Machine (EVM) is turing complete, the machine is at risk of Denial of Service (DoS) attacks due to non-terminating programs. For this reason, gas was introduced to meter the computation of a program's execution.
